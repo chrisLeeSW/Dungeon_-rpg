@@ -21,3 +21,9 @@ public enum MonsterType
     Skeleton,
     Zombie
 }
+
+public enum BuffType
+{
+    Buff,
+    Debuff
+}
